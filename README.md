@@ -1,5 +1,7 @@
 # Spam-or-Ham-Mail-Prediction
 
+<img width="129" alt="spam" src="https://user-images.githubusercontent.com/40309757/105427213-a5a4cc00-5c72-11eb-97a3-001318a8afe6.PNG">
+
 The project involves the detection of spam in SMS communications. We used the text classification system to identify whether or not the messages are spam and NLP methods to prepare and clean up text data (tokenization, remove stop words, stemming). In order to get more reliable predictions, we used various machine learning classification algorithms such as: Logistic Regression, Naive Bayes, Vector Machine Support Vector Machine (SVM).
 
 Technologies used
